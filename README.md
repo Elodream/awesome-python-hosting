@@ -12,9 +12,11 @@ this is a curated list of python web hosting
 ### django
  
  - [heroku](https://www.heroku.com/)
+ - [pythonanywhere](https://www.pythonanywhere.com/)
 
 ### flask
   
  - [heroku](https://www.heroku.com/)
+ - [pythonanywhere](https://www.pythonanywhere.com/)
  
   
