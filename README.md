@@ -1,5 +1,7 @@
 
 # python web host
+
+this is a curated list of python web hosting
 ## contents
 
 - [python web host](#python-web-host)
