@@ -1,10 +1,10 @@
 
-# python web host
+# Awesome python hosting
 
 this is a curated list of python web hosting
 ## contents
 
-- [python web host](#python-web-host)
+- [Awesome python hosting](#awesome-python-hosting)
   - [django](#django)
   - [flask](#flask)
 
