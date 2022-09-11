@@ -14,18 +14,16 @@ this is a curated list of python web hosting
  
 - [heroku](https://www.heroku.com/)
 - [pythonanywhere](https://www.pythonanywhere.com/)  
-- nginx
-- apache
-- railway
-- oracle
+- [nginx](https://www.nginx.com/)
+- [railway](https://railway.app/)
+- [oracle](https://www.oracle.com/)
 
 ### flask
   
 - [heroku](https://www.heroku.com/)
 - [pythonanywhere](https://www.pythonanywhere.com/)  
-- nginx
-- apache
-- railway
-- oracle
+- [nginx](https://www.nginx.com/))
+- [railway](https://railway.app/)
+- [oracle](https://www.oracle.com/)
  
   
