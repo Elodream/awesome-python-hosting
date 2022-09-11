@@ -7,16 +7,25 @@ this is a curated list of python web hosting
 - [python web host](#python-web-host)
   - [django](#django)
   - [flask](#flask)
+
   
   
 ### django
  
- - [heroku](https://www.heroku.com/)
- - [pythonanywhere](https://www.pythonanywhere.com/)
+- [heroku](https://www.heroku.com/)
+- [pythonanywhere](https://www.pythonanywhere.com/)  
+- nginx
+- apache
+- railway
+- oracle
 
 ### flask
   
- - [heroku](https://www.heroku.com/)
- - [pythonanywhere](https://www.pythonanywhere.com/)
+- [heroku](https://www.heroku.com/)
+- [pythonanywhere](https://www.pythonanywhere.com/)  
+- nginx
+- apache
+- railway
+- oracle
  
   
